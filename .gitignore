@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+´
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Pytest & Testing Cache
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
